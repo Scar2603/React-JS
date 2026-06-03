@@ -40,22 +40,22 @@ By the end of this journey, I aim to understand and build production-ready React
 * [x] Environment Setup
 * [x] JSX
 * [x] Components
-* [x] Props
-* [x] State
-* [x] Events
+* [ ] Props
+* [ ] State
+* [ ] Events
 
 ### Dynamic UI
 
-* [x] Conditional Rendering
-* [x] Lists & Keys
-* [x] Forms
+* [ ] Conditional Rendering
+* [ ] Lists & Keys
+* [ ] Forms
 
 ### Hooks & Lifecycle
 
-* [x] useEffect
-* [x] Dependency Arrays
-* [x] Cleanup Functions
-* [x] useRef
+* [ ] useEffect
+* [ ] Dependency Arrays
+* [ ] Cleanup Functions
+* [ ] useRef
 * [ ] useMemo
 * [ ] useCallback
 * [ ] Custom Hooks
@@ -67,14 +67,14 @@ By the end of this journey, I aim to understand and build production-ready React
 
 ### Routing
 
-* [x] React Router
+* [ ] React Router
 
 ### API Integration
 
-* [x] Fetch API
-* [x] Async/Await
-* [x] Loading States
-* [x] Error States
+* [ ] Fetch API
+* [ ] Async/Await
+* [ ] Loading States
+* [ ] Error States
 
 ### Advanced React
 
