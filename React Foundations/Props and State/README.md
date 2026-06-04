@@ -277,7 +277,7 @@ Because React does not know you changed it.
 ✅ Use setter:  
 ``setCount(count + 1);``  
 
-## est Practice
+## Best Practice
 
 When new state depends on old state, use callback form:
 
