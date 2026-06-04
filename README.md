@@ -40,9 +40,9 @@ By the end of this journey, I aim to understand and build production-ready React
 * [x] Environment Setup
 * [x] JSX
 * [x] Components
-* [ ] Props
-* [ ] State
-* [ ] Events
+* [x] Props
+* [x] State
+* [x] Events
 
 ### Dynamic UI
 
