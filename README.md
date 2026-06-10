@@ -46,9 +46,9 @@ By the end of this journey, I aim to understand and build production-ready React
 
 ### Dynamic UI
 
-* [ ] Conditional Rendering
-* [ ] Lists & Keys
-* [ ] Forms
+* [x] Conditional Rendering
+* [x] Lists & Keys
+* [x] Forms
 
 ### Hooks & Lifecycle
 
