@@ -52,9 +52,9 @@ By the end of this journey, I aim to understand and build production-ready React
 
 ### Hooks & Lifecycle
 
-* [ ] useEffect
-* [ ] Dependency Arrays
-* [ ] Cleanup Functions
+* [x] useEffect
+* [x] Dependency Arrays
+* [x] Cleanup Functions
 * [ ] useRef
 * [ ] useMemo
 * [ ] useCallback
