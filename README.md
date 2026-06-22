@@ -62,7 +62,7 @@ By the end of this journey, I aim to understand and build production-ready React
 
 ### State Management
 
-* [ ] Context API
+* [x] Context API
 * [ ] Redux Toolkit
 
 ### Routing
