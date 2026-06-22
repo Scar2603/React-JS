@@ -55,7 +55,7 @@ By the end of this journey, I aim to understand and build production-ready React
 * [x] useEffect
 * [x] Dependency Arrays
 * [x] Cleanup Functions
-* [ ] useRef
+* [x] useRef
 * [ ] useMemo
 * [ ] useCallback
 * [ ] Custom Hooks
@@ -67,14 +67,14 @@ By the end of this journey, I aim to understand and build production-ready React
 
 ### Routing
 
-* [ ] React Router
+* [x] React Router
 
 ### API Integration
 
-* [ ] Fetch API
-* [ ] Async/Await
-* [ ] Loading States
-* [ ] Error States
+* [x] Fetch API
+* [x] Async/Await
+* [x] Loading States
+* [x] Error States
 
 ### Advanced React
 
