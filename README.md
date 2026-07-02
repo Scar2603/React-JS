@@ -58,7 +58,7 @@ By the end of this journey, I aim to understand and build production-ready React
 * [x] useRef
 * [x] useMemo
 * [x] useCallback
-* [ ] Custom Hooks
+* [x] Custom Hooks
 
 ### State Management
 
