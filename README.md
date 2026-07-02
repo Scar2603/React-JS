@@ -56,8 +56,8 @@ By the end of this journey, I aim to understand and build production-ready React
 * [x] Dependency Arrays
 * [x] Cleanup Functions
 * [x] useRef
-* [ ] useMemo
-* [ ] useCallback
+* [x] useMemo
+* [x] useCallback
 * [ ] Custom Hooks
 
 ### State Management
